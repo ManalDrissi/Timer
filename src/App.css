@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+header {
+  font-size: 3em;
+  font-weight: lighter;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 400;
+}
+
+input {
+  margin: 5px;
+  border: none;
+  border-radius:0px 5px;
+}
